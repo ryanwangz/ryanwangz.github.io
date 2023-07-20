@@ -8,3 +8,8 @@ redirect_from:
   - /research.html
 ---
 
+{% include base_path %}
+
+{% for post in site.research.current %}
+  {% include archive-single.html %}
+{% endfor %}
