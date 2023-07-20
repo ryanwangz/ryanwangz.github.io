@@ -1,11 +1,8 @@
 ---
-permalink: /
+layout: archive
 title: "Research"
-excerpt: "Research projects"
+permalink: /research/
 author_profile: true
-redirect_from: 
-  - /research/
-  - /research.html
 ---
 
 {% include base_path %}
