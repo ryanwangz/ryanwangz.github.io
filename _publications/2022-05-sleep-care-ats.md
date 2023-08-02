@@ -12,5 +12,5 @@ In this conference proceeding, we examined National Health Interview Survey (NHI
 
 [Download conference proceeding here](https://doi.org/10.1164/ajrccm-conference.2022.205.1_MeetingAbstracts.A3774)
 
-<b>R Wang</b>, A Jamal, Z Wang, S Dan, M Srinivasan, L Eggert, "Precision Sleep Medicine: Variations in Sleep Quality Among Asian Americans in the National Health Interview Survey (2006-2018)," <i>Online Abstract Issue of the American Journal of Respiratory and Critical Care Medicine</i>, Volume 205, May 2022.
+<strong>R Wang</strong>, A Jamal, Z Wang, S Dan, M Srinivasan, L Eggert, "Precision Sleep Medicine: Variations in Sleep Quality Among Asian Americans in the National Health Interview Survey (2006-2018)," <i>Online Abstract Issue of the American Journal of Respiratory and Critical Care Medicine</i>, Volume 205, May 2022.
 https://doi.org/10.1164/ajrccm-conference.2022.205.1_MeetingAbstracts.A3774
