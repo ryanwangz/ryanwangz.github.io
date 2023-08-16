@@ -16,7 +16,7 @@ My research interests lie at the intersection of neuroscience and engineering. I
 
 I have received the [Barry M. Goldwater Scholarship](https://goldwaterscholarship.gov/) and [Sigma Xi Grant in Aid of Research](https://www.sigmaxi.org/programs/grants-in-aid-of-research) for my research. My work has culminated in published work in journals such as _The Lancet Global Health_ and the _Journal of Clinical Sleep Medicine_ as well as presentations at conferences such as the _American Thoracic Society International Conference_, _Consortium of Universities for Global Health Conference_, _National Conference on Undergraduate Research_, and _Society of General Internal Medicine_.
 
-Beyond my research work, I am the co-founder and co-president of Rice's Neurotechology Club, co-founder and Vice President of the Rice Cubing Club, an Academic Fellow for Lovett College, a Peer Academic Advisor, and a Peer Research Ambassador for Rice's [Office of Undergraduate Research and Inquiry](https://ouri.rice.edu/).
+Beyond my research work, I am the co-founder and co-president of Rice's Neurotechology Club, co-founder and Vice President of the Rice Cubing Club, an Academic Fellow for Lovett College, a Peer Academic Advisor, Scientific Communication Coach with Rice's [Center for Academic and Professional Communication](https://pwc.rice.edu/center-academic-and-professional-communication), and a Peer Research Ambassador for Rice's [Office of Undergraduate Research and Inquiry](https://ouri.rice.edu/).
 
 Outside of my academic endeavors, I enjoy [speedsolving Rubik's Cubes](https://www.worldcubeassociation.org/persons/2019WANG86), playing soccer, cooking, and reading.
 
