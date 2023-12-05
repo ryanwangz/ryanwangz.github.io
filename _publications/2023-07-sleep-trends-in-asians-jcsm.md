@@ -2,7 +2,7 @@
 title: "Towards Precision Sleep Medicine: Variations in Sleep Quality Among Disaggregated Asian Americans in the National Health Interview Survey (2006-2018)"
 collection: publications
 permalink: /publication/2023-07-sleep-trends-in-asians-jcsm
-excerpt: 'In this paper, we examined National Health Interview Survey (NHIS) data from 2006–2018 to analyse the sleep patterns, factors, and trends of Chinese, Asian Indian, Filipino, other Asian, and non-Hispanic White adults (n=880,210). WE found that Filipinos had the worst sleep outcomes, while Asian Indians had significantly better sleep outcomes. All Asian subgroups were less likely to report using sleep medications than NHWs. Foreign-born status had a negative association with sufficient sleep duration in Filipinos but a positive association in Asian Indians and Chinese. These findings highlight the importance of disaggregating Asian ethnic subgroups to address their health needs.'
+excerpt: 'In this paper, we examined National Health Interview Survey (NHIS) data from 2006–2018 to analyse the sleep patterns, factors, and trends of Chinese, Asian Indian, Filipino, other Asian, and non-Hispanic White adults (n=880,210). We found that Filipinos had the worst sleep outcomes, while Asian Indians had significantly better sleep outcomes. All Asian subgroups were less likely to report using sleep medications than NHWs. Foreign-born status had a negative association with sufficient sleep duration in Filipinos but a positive association in Asian Indians and Chinese. These findings highlight the importance of disaggregating Asian ethnic subgroups to address their health needs.'
 date: 2023-07-01
 venue: 'Journal of Clinical Sleep Medicine'
 paperurl: 'https://doi.org/10.5664/jcsm.10558'
