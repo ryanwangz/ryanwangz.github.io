@@ -5,7 +5,7 @@ permalink: /research/BCIs
 venue: "University of Washington Center for Neurotechnology"
 lab: "Orsborn Lab"
 excerpt: 'I am developing a novel neural decoder paradigm for Brain-Computer Interfaces (BCIs) that could expand their practicality and accessibility. '
-date: "May 2023 to present"
+span: "May 2023 to present"
 location: "Seattle, Washington"
 ---
 

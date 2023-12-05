@@ -5,7 +5,7 @@ permalink: /research/REMIS
 venue: "Rice University"
 excerpt: 'Using synthetic markers of gene expression and focused ultrasound for blood-brain barrier opening (FUS-BBBO), we successfully developed a precise, sensitive, noninvasive paradigm for monitoring gene expression in the brain called Recovery of Markers through InSonation (REMIS).'
 lab: "Szablowski Lab for Noninvasive Neuroengineering"
-date: "Jan 2023 to May 2023"
+span: "Jan 2023 to May 2023"
 location: "Houston, Texas"
 ---
 

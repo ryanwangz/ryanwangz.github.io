@@ -5,7 +5,7 @@ permalink: /research/sleep
 venue: "Stanford University School of Medicine"
 excerpt: 'Asian Americans (AAs) report higher rates of insufficient sleep than other groups nationally. It is unclear how sleep outcomes differ among disaggregated Asian subgroups. The National Health Interview Survey was used to analyze self-reported sleep quality and duration measures for AA subgroups to inform policies and future research. Filipinos report poor sleep outcomes and Asian Indians report significantly better sleep outcomes, highlighting the importance of disaggregating Asians.'
 lab: "Center for Asian Health Research and Education (CARE)"
-date: "April 2021 to July 2023"
+span: "April 2021 to July 2023"
 location: "Palo Alto, California"
 ---
 
