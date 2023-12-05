@@ -3,6 +3,7 @@ title: "Designing Decoders for Brain-Computer Interfaces"
 collection: research
 permalink: /research/BCIs
 venue: "University of Washington Center for Neurotechnology"
+excerpt: 'I am developing a novel neural decoder paradigm for Brain-Computer Interfaces (BCIs) that could expand their practicality and accessibility. '
 date: May 2023 to present
 location: "Seattle, Washington"
 ---
