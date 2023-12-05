@@ -1,7 +1,7 @@
 ---
 title: "Designing Decoders for Brain-Computer Interfaces"
 collection: research
-permalink: /teaching/Neurocamp
+permalink: /research/BCIs
 venue: "University of Washington Center for Neurotechnology"
 date: May 2023 to present
 location: "Seattle, Washington"
