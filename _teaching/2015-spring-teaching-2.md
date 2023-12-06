@@ -9,6 +9,6 @@ location: "Houston, Texas"
 ---
 
 
-Taught 4 courses to 150+ high school students across 2 years in a free virtual and in-person summer neuroscience program targeting underserved populations.\
+Taught 4 courses to 150+ high school students across 2 years in a free virtual and in-person summer neuroscience program.\
 NeuroCamp 2023 courses: Neuroscience & Technology, Philosophy of Mind\
 NeuroCamp 2022 courses: Neuroscience Research, Undergraduate Experiences
