@@ -1,3 +1,19 @@
+TODOS: update with new fellowships
+long term: 
+-guide to getting involved in research
+-guide to summer research
+-guide to applying to grad school
+-guide to applying to grad fellowships (include how to find things)
+-how to read a research paper
+-REUs
+-how to email professors
+-undergrad research
+-goldwater guide?
+-KH guide?
+-interviews guide?
+
+Recursive link: https://github.com/ryanwangz/ryanwangz.github.io
+
 A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
 
 I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.
