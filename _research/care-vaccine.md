@@ -13,4 +13,6 @@ Little is known about vaccination rates among disaggregated Asian-American (AA) 
 
 Published in AJPM Focus [https://doi.org/10.1016/j.focus.2022.100044](https://www.sciencedirect.com/science/article/pii/S2773065422000426?via%3Dihub)
 
+Awarded [AJPM Focus Article of the Year 2023 for Inclusivity in People](https://www.ajpmfocus.org/article/S2773-0654(24)00117-2/fulltext)
+
 Conference Proceedings in The Lancet Global Health [https://doi.org/10.1016/S2214-109X(22)00156-5](https://doi.org/10.1016/S2214-109X(22)00156-5)

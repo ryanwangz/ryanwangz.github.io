@@ -12,3 +12,5 @@ location: "Houston, Texas"
 Taught 4 courses to 150+ high school students across 2 years in a free virtual and in-person summer neuroscience program.\
 NeuroCamp 2023 courses: Neuroscience & Technology, Philosophy of Mind\
 NeuroCamp 2022 courses: Neuroscience Research, Undergraduate Experiences
+
+[Neurocamp Website](http://rns.rice.edu/rns-initiatives/rns-neurocamp/)

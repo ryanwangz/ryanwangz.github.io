@@ -8,7 +8,7 @@ venue: 'Online Abstract Issue of the American Journal of Respiratory and Critica
 paperurl: 'https://doi.org/10.1164/ajrccm-conference.2022.205.1_MeetingAbstracts.A3774'
 citation: '<b>R Wang</b>, A Jamal, Z Wang, S Dan, M Srinivasan, L Eggert, "Precision Sleep Medicine: Variations in Sleep Quality Among Asian Americans in the National Health Interview Survey (2006-2018)," <i>Online Abstract Issue of the American Journal of Respiratory and Critical Care Medicine</i>, Volume 205, May 2022.'
 ---
-In this conference proceeding, we examined National Health Interview Survey (NHIS) data from 2006–2018 to analyse the sleep patterns, factors, and trends of Chinese, Asian Indian, Filipino, other Asian, and non-Hispanic White adults (n=880,210).
+In this conference proceeding, we examined National Health Interview Survey (NHIS) data from 2006–2018 to analyse the sleep patterns, factors, and trends of Chinese, Asian Indian, Filipino, other Asian, and non-Hispanic White (NHW) adults (n=880,210).
 
 [Download conference proceeding here](https://doi.org/10.1164/ajrccm-conference.2022.205.1_MeetingAbstracts.A3774)
 
