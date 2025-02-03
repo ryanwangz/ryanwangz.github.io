@@ -1,4 +1,8 @@
 <!-- 
+Relevant files:
+_config.yml
+_data/navigation
+_pages/about
 
 TODOS: update with new fellowships
 long term: 

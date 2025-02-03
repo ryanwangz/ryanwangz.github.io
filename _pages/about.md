@@ -10,9 +10,11 @@ redirect_from:
 
 Hello! 
 
-I'm a bioengineering PhD student and [Knight-Hennessy Scholar](https://knight-hennessy.stanford.edu/people/ryan-wang) at [Stanford University](https://profiles.stanford.edu/wang-ryan). I am also supported by the [National Defense Science and Engineering Graduate Fellowship (NDSEG)](https://ndseg.org/).
+I'm a bioengineering PhD student and [Knight-Hennessy Scholar](https://knight-hennessy.stanford.edu/people/ryan-wang) at Stanford University. I am also supported by the [National Defense Science and Engineering Graduate Fellowship (NDSEG)](https://ndseg.org/).
+<!-- previously had (https://profiles.stanford.edu/wang-ryan) link -->
 
-My research interests lie at the intersection of neuroscience and engineering. I recently conducted research at the [Rice Neuroengineering Initiative](https://neuroengineering.rice.edu/) with [Dr. Jerzy Szablowski](https://www.szablowskilab.org/) and at the [University of Washington Center for Neurotechnology](https://centerforneurotech.uw.edu/) with [Dr. Amy Orsborn](http://faculty.washington.edu/aorsborn/index.html). Previously, I conducted research at the [Stanford Center for Asian Health Research and Education](https://med.stanford.edu/care.html) with Drs. Lauren Eggert, Malathi Srinivasan, and Shanthi Kappagoda as a [2021 Stanford CARE Scholar](https://med.stanford.edu/care/education/care-scholars/care-scholars-alumni.html).
+My research interests lie at the intersection of neuroscience and engineering. I previously developed methods for noninvasive control and monitoring of the brain with [Dr. Jerzy Szablowski](https://www.szablowskilab.org/) at the [Rice Neuroengineering Initiative](https://neuroengineering.rice.edu/) and developed neural decoders for brain-computer interfaces with [Dr. Amy Orsborn](http://faculty.washington.edu/aorsborn/index.html) at the University of Washington's [Center for Neurotechnology](https://centerforneurotech.uw.edu/). I also studied sleep with Dr. Lauren Eggert and vaccination with Drs. Malathi Srinivasan and Shanthi Kappagoda at the [Stanford Center for Asian Health Research and Education](https://med.stanford.edu/care.html). 
+<!-- as a [2021 Stanford CARE Scholar](https://med.stanford.edu/care/education/care-scholars/care-scholars-alumni.html). -->
 
 <!-- My work has culminated in published work in journals such as _Science Advances_, _The Lancet Global Health_, and the _Journal of Clinical Sleep Medicine_ as well as presentations at conferences such as the _American Thoracic Society International Conference_, _Consortium of Universities for Global Health Conference_, _National Conference on Undergraduate Research_, and _Society of General Internal Medicine_. -->
 

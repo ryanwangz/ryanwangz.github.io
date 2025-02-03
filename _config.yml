@@ -86,9 +86,9 @@ author:
   location         : 
   employer         :
   pubmed           :
-  googlescholar    :
+  googlescholar    : https://scholar.google.com/citations?user=pDp2RMsAAAAJ&hl=en
   email            : #do not put here (avoid spam)
-  researchgate     : "https://www.researchgate.net/profile/Ryan-Wang-23" # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : #"https://www.researchgate.net/profile/Ryan-Wang-23" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
