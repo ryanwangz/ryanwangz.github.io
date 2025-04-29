@@ -73,10 +73,14 @@
   }
 
   a {
+    color: $link-color;
+    /* Default link color */
     text-decoration: underline;
-
-    &:hover {
+    &:hover,
+    &:focus {
+      color: $link-color-hover; /* Change color on hover */
       text-decoration: underline;
+      outline: 0;
 
       img {
         box-shadow: 0 0 10px rgba(#000, 0.25);
