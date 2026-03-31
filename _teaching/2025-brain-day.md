@@ -4,7 +4,7 @@ collection: teaching
 type: "Middle School"
 permalink: /teaching/2025-2026-Brain-Day
 venue: "Palo Alto Unified School District"
-date: 2025-2026
+date: 2025-05-01
 location: "Palo Alto Unified School District"
 ---
 
